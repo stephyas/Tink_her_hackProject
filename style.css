@@ -107,6 +107,13 @@
     color: #ffea05;
     text-decoration: none;
   }
+  p{
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(1, 0, 0);
+    padding-top: 50px;
+  }
   .forgot-pw {
     color: inherit;
   }
