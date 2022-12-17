@@ -113,6 +113,7 @@
     font-style: italic;
     color: rgb(1, 0, 0);
     padding-top: 50px;
+      text-align: center;
   }
   .forgot-pw {
     color: inherit;
