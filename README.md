@@ -6,3 +6,18 @@ Smart study website is useful for students for increasing the productivity of st
    Front-end is done using html and css.Flashcards are created using python functions.
    Both front-end and python is interfaced using flask.Web scraping is done using scrapy by creating spiders which crawls the website.
    Data is first stored as json/csv/xml file.Then data is stored in Mysql in mysql workbench to make it into tabular form.Sql commands are given in pipeline python page of spider
+
+
+#commands
+  1)Scraping
+  import scrapy   
+  scrapy startproject project_name
+  scrapy crawl spider_name  //creating scrapy
+  scrapy crawl spider_name -o json
+  
+  #errors
+  can't connect all pages using python integrations
+  flask is done for it but not working
+  showing errors on connecting different stacks
+  
+     
