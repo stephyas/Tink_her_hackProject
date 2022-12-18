@@ -18,7 +18,7 @@ class login(db.Model):
 def index():
     content ={
         "data":"keyword_search",
-        "flashit":"hahaha"
+        "flashit":"searching.."
     }
     flash("Please enter all..",'error')
     return render_template('index.html',context = content)
